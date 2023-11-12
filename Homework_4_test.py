@@ -1,5 +1,5 @@
 import unittest
-from HW4 import character_frequency, separate_words, word_frequency, word_finder, unique_words, word_histogram
+from Homework_4 import character_frequency, separate_words, word_frequency, word_finder, unique_words, word_histogram
 
 class TestHomework4(unittest.TestCase):
     
